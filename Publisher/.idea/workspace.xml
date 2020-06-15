@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954d10ee-776d-4d19-a7e7-0dfc6f5aa16f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UKf7YB0Qyl5CMz3V2EOUoAphlV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sub" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="publisher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mqtt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/publisher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.publisher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954d10ee-776d-4d19-a7e7-0dfc6f5aa16f" name="Default Changelist" comment="" />
+      <created>1575110040240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575110040240</updated>
+      <workItem from="1575110042853" duration="3203000" />
+      <workItem from="1575114922242" duration="9274000" />
+      <workItem from="1575129261459" duration="17129000" />
+      <workItem from="1575184685583" duration="2538000" />
+      <workItem from="1575226067931" duration="312000" />
+      <workItem from="1575629168244" duration="27301000" />
+      <workItem from="1575797520022" duration="5516000" />
+      <workItem from="1575806269060" duration="100000" />
+      <workItem from="1575806407922" duration="8441000" />
+      <workItem from="1576402785959" duration="29783000" />
+      <workItem from="1576480928009" duration="106000" />
+      <workItem from="1576481063598" duration="258000" />
+      <workItem from="1576486813914" duration="337000" />
+      <workItem from="1576529759293" duration="1218000" />
+      <workItem from="1576544234864" duration="488000" />
+      <workItem from="1576697106101" duration="2740000" />
+      <workItem from="1576969388747" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mqtt$publisher.coverage" NAME="publisher Coverage Results" MODIFIED="1576421718942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
